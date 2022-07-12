@@ -1,11 +1,5 @@
-### Hi there 👋
 
-## Johseffer Wellynton Chepli
-Nice to meet you ;)
 
-</br>
-
-### 🖥️ Tecnologias e Ferramentas: 
 <p align="center">
 </br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -35,24 +29,30 @@ Nice to meet you ;)
 
 </br>
 
+
+### Hi there 👋
+
+## Johseffer Wellynton Chepli
+Nice to meet you ;)
+
+
+</br>
+
 📫 Você pode falar comigo nas redes abaixo e também pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
 </br>
 
 ##
 <p align="center">
-    <a href="mailto:johseffer@gmail.com" target="_blank">
-    <img align="center" alt="Email" width="22px" src="./gmail.svg" /></a>
-    <a href="https://www.linkedin.com/in/johseffer" target="_blank">
-    <img align="center" alt="Instagram" width="22px" src="./twitter.svg" /></a>
     <a href="https://github.com/johseffer" target="_blank">
     <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-     <a href="https://github.com/johseffer" target="_blank">
+    <a href="https://www.linkedin.com/in/johseffer" target="_blank">
+    <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+     <a href="https://facebook.com/johseffer" target="_blank">
     <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
+     <a href="mailto:johseffer@gmail.com" target="_blank">
+    <img align="center" alt="Email" width="22px" src="./gmail.svg" /></a>
 </p>
-
-</br>
-</br>
 
 ##
 <p align="center">
