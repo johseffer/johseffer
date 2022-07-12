@@ -52,6 +52,8 @@ Nice to meet you ;)
     <img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
      <a href="mailto:johseffer@gmail.com" target="_blank">
     <img align="center" alt="Email" width="22px" src="./gmail.svg" /></a>
+     <a href="http://johseffer.com.br/" target="_blank">
+    <img align="center" alt="Portifolio" width="22px" src="./portifolio.svg" /></a>
 </p>
 
 ##
