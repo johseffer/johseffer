@@ -1,0 +1,11 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill-rule="evenodd" fill="#ffffff" d="m16.003,0c-8.833,0 -15.995,7.162 -15.995,15.997c0,7.067 4.582,13.063 10.94,15.179c0.8,0.146 1.052,-0.328 1.052,-0.752c0,-0.38 0.008,-1.4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM91.452,-0.992 0.109,-0.973 0.109,-0.973c1.605,0.113 2.451,1.649 2.451,1.649c1.4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9.776 -7.286,-7.906c0,-1.747 0.623,-3.174 1.646,-4.292c-0.165,-0.404 -0.715,-2.031 0.157,-4.234c0,0 1.343,-0.4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM9,-2.07 4.396,-1.641 4.396,-1.641c0.872,2.203 0.323,3.83 0.159,4.234c1.023,1.118 1.644,2.545 1.644,4.292c0,6.146 -3.74,7.4B8r3B4p7yhRXuBWLqsQ546WR43cqQwrbXMDFnBi6vSJBeif8tPW85a7r7DM961Jvk4hdryZoByEp8GC8HzsqJpRN4FxGM907,0.746c6.352,-2.119 10.93,-8.112 10.93,-15.177c0,-8.835 -7.162,-15.997 -15.997,-15.997z" clip-rule="evenodd"/>
+ </g>
+</svg>
