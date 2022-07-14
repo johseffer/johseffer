@@ -61,13 +61,13 @@ Automação de testes de software
 </tr>
 <tr>
 <td>
-Projetos de frameworks de desenvolvimento web
+Desenvolvimento de frameworks
 </td>
 <td>
-Projetos de automação utilizando software
+Automação utilizando software
 </td>
 <td>
-Projetos de chatbot de atendimento
+Projetos de chatbots
 </td>
 </tr>
 <tr>
@@ -83,13 +83,13 @@ Desenvolvimento de web scrapping
 </tr>
 <tr>
 <td>
-Desenvolvimento de aplicações de reconhecimento de imagem
+Visão computacional
 </td>
 <td>
-Desenvolvimento de projetos IOT<
+Desenvolvimento de projetos IOT
 </td>
 <td>
-Conhecimento em segurança e pen test
+Segurança e pen test
 </td>
 </tr>
 <tr>
@@ -101,6 +101,28 @@ Image Design
 </td>
 <td>
 Video Design
+</td>
+</tr>
+<tr>
+<td>
+Desenvolvimento e consumo de APIs</br>
+</td>
+<td>
+Criação NPM Packages
+</td>
+<td>
+Criação Nuget Packages
+</td>
+</tr>
+<tr>
+<td>
+Yarn</br>
+</td>
+<td>
+NPM
+</td>
+<td>
+Nuget
 </td>
 </tr>
 </table>
