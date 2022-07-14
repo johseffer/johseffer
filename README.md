@@ -43,14 +43,6 @@ Nice to meet you ;)
 
 </br>
 
-<table>
-<tr>
-<td valign="center">
-<img align="left" width="250px" height="340px" src="./avatar_left2.png" />
-</td>
-<td valign="center">
-<div>
-
 Sou desenvolvedor full-stack a mais de 10 anos, atuando desde o início da carreira com a plataforma .NET mas já me deparei com problemas nas mais diversas stacks.
 
 Algumas skills que possuo:
@@ -112,14 +104,6 @@ Video Design
 </td>
 </tr>
 </table>
-
-  </div>
-    </td>
-  </tr>
-</table>
-
-
-
 
 </br>
 
