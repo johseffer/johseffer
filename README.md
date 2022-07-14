@@ -41,32 +41,77 @@
 ## Johseffer Wellynton Chepli
 Nice to meet you ;)
 
+</br>
+
 <table>
 <tr>
 <td valign="center">
-<img align="left" width="420px" src="./avatar_left2.png" />
+<img align="left" width="250px" height="340px" src="./avatar_left2.png" />
 </td>
 <td valign="center">
-<div dsplay="inline-block" >
+<div>
 
 Sou desenvolvedor full-stack a mais de 10 anos, atuando desde o início da carreira com a plataforma .NET mas já me deparei com problemas nas mais diversas stacks.
 
 Algumas skills que possuo:
 
-Metodologias agile, Scrum, Kanban</br>
-Microserviços, CleanArchitecture, DDD</br>
-Automação de testes de software</br>
-Projetos de frameworks de desenvolvimento web</br>
-Projetos de automação utilizando software</br>
-Projetos de chatbot de atendimento</br>
-Desenvolvimento de skills para Amazon Alexa</br>
-Desenvolvimento de RPAs</br>
-Desenvolvimento de web scrapping</br>
-Desenvolvimento de aplicações de reconhecimento de imagem</br>
-Desenvolvimento de projetos IOT</br>
-Conhecimento em segurança e pen test</br>
+<table>
+<tr>
+<td>
+Metodologias agile, Scrum, Kanban
+</td>
+<td>
+Microserviços, CleanArchitecture, DDD
+</td>
+<td>
+Automação de testes de software
+</td>
+</tr>
+<tr>
+<td>
+Projetos de frameworks de desenvolvimento web
+</td>
+<td>
+Projetos de automação utilizando software
+</td>
+<td>
+Projetos de chatbot de atendimento
+</td>
+</tr>
+<tr>
+<td>
+Desenvolvimento de skills para Amazon Alexa
+</td>
+<td>
+Desenvolvimento de RPAs
+</td>
+<td>
+Desenvolvimento de web scrapping
+</td>
+</tr>
+<tr>
+<td>
+Desenvolvimento de aplicações de reconhecimento de imagem
+</td>
+<td>
+Desenvolvimento de projetos IOT<
+</td>
+<td>
+Conhecimento em segurança e pen test
+</td>
+</tr>
+<tr>
+<td>
 Gerenciamento de domínios</br>
-
+</td>
+<td>
+Image Design
+</td>
+<td>
+Video Design
+</td>
+</tr>
+</table>
 
   </div>
     </td>
@@ -103,4 +148,12 @@ Gerenciamento de domínios</br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=johseffer&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=johseffer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+
+</p>
+
+</br>
+
+<p align="center">
+<img width="220px" src="./avatar_bottom.png" />
 </p>
