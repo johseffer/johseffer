@@ -1,5 +1,12 @@
 
+##
+<p align="center">
+</br>
+<img width="200px" src="./avatar_top.png" title = "Azure"/>
+</br>
+</p>
 
+##
 <p align="center">
 </br>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
@@ -24,7 +31,6 @@
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title = "ANDROID"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title = "Azure"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title = "Azure"/></code>
-
 </p>
 
 </br>
@@ -35,6 +41,40 @@
 ## Johseffer Wellynton Chepli
 Nice to meet you ;)
 
+<table>
+<tr>
+<td valign="center">
+<img align="left" width="420px" src="./avatar_left2.png" />
+</td>
+<td valign="center">
+<div dsplay="inline-block" >
+
+Sou desenvolvedor full-stack a mais de 10 anos, atuando desde o início da carreira com a plataforma .NET mas já me deparei com problemas nas mais diversas stacks.
+
+Algumas skills que possuo:
+
+Metodologias agile, Scrum, Kanban</br>
+Microserviços, CleanArchitecture, DDD</br>
+Automação de testes de software</br>
+Projetos de frameworks de desenvolvimento web</br>
+Projetos de automação utilizando software</br>
+Projetos de chatbot de atendimento</br>
+Desenvolvimento de skills para Amazon Alexa</br>
+Desenvolvimento de RPAs</br>
+Desenvolvimento de web scrapping</br>
+Desenvolvimento de aplicações de reconhecimento de imagem</br>
+Desenvolvimento de projetos IOT</br>
+Conhecimento em segurança e pen test</br>
+Gerenciamento de domínios</br>
+
+
+  </div>
+    </td>
+  </tr>
+</table>
+
+
+
 
 </br>
 
@@ -42,7 +82,6 @@ Nice to meet you ;)
 
 </br>
 
-##
 <p align="center">
     <a href="https://github.com/johseffer" target="_blank">
     <img align="center" alt="Github" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
@@ -54,7 +93,9 @@ Nice to meet you ;)
     <img align="center" alt="Email" width="22px" src="./gmail.svg" /></a>
      <a href="http://johseffer.com.br/" target="_blank">
     <img align="center" alt="Portifolio" width="22px" src="./portifolio.svg" /></a>
+
 </p>
+</br>
 
 ##
 <p align="center">
